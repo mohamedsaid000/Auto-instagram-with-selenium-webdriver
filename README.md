@@ -1,4 +1,4 @@
 # installations
-install python
-pip install selenium
-pip install webdriver_manager
+#install python
+#pip install selenium
+#pip install webdriver_manager
