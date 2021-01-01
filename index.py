@@ -18,7 +18,6 @@ login.click()
 
 time.sleep(5)
 
-#Don't save it
 
 turn_on = driver.find_element_by_xpath('/html/body/div[4]/div/div/div/div[3]/button[1]')
 turn_on.click()
