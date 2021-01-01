@@ -1,2 +1,4 @@
-# Auto-instagram-with-selenium-webdriver
-Automate instagram using Selenium webdriver to get more followers
+# installations
+install python
+pip install selenium
+pip install webdriver_manager
