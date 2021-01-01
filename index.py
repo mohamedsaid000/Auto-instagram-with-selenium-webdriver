@@ -9,7 +9,7 @@ driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get("https://www.instagram.com/")
 time.sleep(3)
 
-#login with the username ans pass
+#login with the username and pass
 username = driver.find_element_by_name("username")
 username.send_keys("username")
 password = driver.find_element_by_name("password")
